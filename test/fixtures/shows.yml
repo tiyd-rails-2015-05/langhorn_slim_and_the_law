@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  venue_id: 1
+  played_at: 2015-05-26 11:18:12
+  tour_name: MyString
+  price: 1.5
+
+two:
+  venue_id: 1
+  played_at: 2015-05-26 11:18:12
+  tour_name: MyString
+  price: 1.5
