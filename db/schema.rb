@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150526153003) do
+ActiveRecord::Schema.define(version: 20150526151812) do
 
   create_table "shows", force: :cascade do |t|
     t.integer  "venue_id"
